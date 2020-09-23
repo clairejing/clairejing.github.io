@@ -2,14 +2,14 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://wenjing-liu.github.io/tags/JavaScript/</loc>
+        <loc>http://wenjing-liu.github.io/tags/Machine-Learning/</loc>
         <lastmod>2020-09-23T01:36:52.133Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://wenjing-liu.github.io/tags/Machine-Learning/</loc>
+        <loc>http://wenjing-liu.github.io/tags/JavaScript/</loc>
         <lastmod>2020-09-23T01:36:52.133Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -30,14 +30,14 @@
     </url>
 
     <url>
-        <loc>http://wenjing-liu.github.io/tags/%E5%9B%9E%E5%BD%92%E7%AE%97%E6%B3%95/</loc>
+        <loc>http://wenjing-liu.github.io/tags/%E5%89%8D%E7%AB%AF%EF%BC%8C%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6/</loc>
         <lastmod>2020-09-23T01:36:52.134Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://wenjing-liu.github.io/tags/%E5%89%8D%E7%AB%AF%EF%BC%8C%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6/</loc>
+        <loc>http://wenjing-liu.github.io/tags/%E5%9B%9E%E5%BD%92%E7%AE%97%E6%B3%95/</loc>
         <lastmod>2020-09-23T01:36:52.134Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -79,13 +79,6 @@
     </url>
 
     <url>
-        <loc>http://wenjing-liu.github.io/tags/deeplearning-ai-C2/</loc>
-        <lastmod>2020-09-23T01:36:52.136Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://wenjing-liu.github.io/tags/deeplearning-ai-C3/</loc>
         <lastmod>2020-09-23T01:36:52.136Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -93,7 +86,7 @@
     </url>
 
     <url>
-        <loc>http://wenjing-liu.github.io/tags/deeplearning-ai-C4/</loc>
+        <loc>http://wenjing-liu.github.io/tags/deeplearning-ai-C2/</loc>
         <lastmod>2020-09-23T01:36:52.136Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -101,6 +94,13 @@
 
     <url>
         <loc>http://wenjing-liu.github.io/tags/deeplearning-ai-C5/</loc>
+        <lastmod>2020-09-23T01:36:52.136Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://wenjing-liu.github.io/tags/deeplearning-ai-C4/</loc>
         <lastmod>2020-09-23T01:36:52.136Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
